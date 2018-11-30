@@ -1,6 +1,13 @@
 # PSXmlRpcClient
 PSXmlRpcClient is an implementation of XML-RPC client in PowerShell
 
+Installation
+---
+
+```
+PS> Install-Module -Name PSXmlRpcClient
+```
+
 Examples
 ---
 
